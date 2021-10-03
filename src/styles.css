@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card {
+  border-radius: 5px;
+  width: 40%;
+  height: 30vh;
+  background: #ccc;
+  margin: 1rem auto;
+  padding: 0.5rem;
+}
+
+input,
+button {
+  display: inline-block;
+}
